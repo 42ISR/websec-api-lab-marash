@@ -1,4 +1,4 @@
-# %СЮДА_ВСТАВИТЬ_ВАШ_САБДОМЕН/api/marketplace%
+# %dnhpg/api/marketplace%
 
 # Лабораторная: Деплой API
 
